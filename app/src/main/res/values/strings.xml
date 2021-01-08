@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="my_image_description">hint : To convert temperatures in degrees Fahrenheit to Celsius, subtract 32 and multiply by . 5556 (or 5/9).</string>
+</resources>
